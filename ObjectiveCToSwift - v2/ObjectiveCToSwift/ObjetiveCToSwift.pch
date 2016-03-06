@@ -1,0 +1,19 @@
+//
+//  ObjetiveCToSwift.pch
+//  ObjectiveCToSwift
+//
+//  Created by Gergely Orosz on 25/02/2016.
+//  Copyright © 2016 GergelyOrosz. All rights reserved.
+//
+
+#ifndef ObjetiveCToSwift_pch
+#define ObjetiveCToSwift_pch
+
+#import "TripLegBase.h"
+#import "FlightLeg.h"
+#import "Trip.h"
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+
+#endif /* ObjetiveCToSwift_pch */

@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ObjectiveCToSwift/Models/Trip.m"
+            timestampString = "478110138.863662"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "36"
+            endingLineNumber = "36"
+            landmarkName = "-firstCarHireLeg"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ObjectiveCToSwiftTests/TripTests.m"
+            timestampString = "478109016.073912"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "53"
+            endingLineNumber = "53"
+            landmarkName = "-test_whenTripHasTwoHotelLegs_thenFirstHotelLegReturnsTheFirstOne"
+            landmarkType = "5">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[TripTests test_whenTripHasTwoHotelLegs_thenFirstHotelLegReturnsTheFirstOne]"
+                  moduleName = "ObjectiveCToSwiftTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/gergelyorosz/Documents/Projects/Gergo/ObjectiveCToSwift/ObjectiveCToSwiftTests/TripTests.m"
+                  timestampString = "478109022.295278"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "53"
+                  endingLineNumber = "53"
+                  offsetFromSymbolStart = "294">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[TripTests test_whenTripHasTwoHotelLegs_thenFirstHotelLegReturnsTheFirstOne]"
+                  moduleName = "ObjectiveCToSwiftTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/gergelyorosz/Documents/Projects/Gergo/ObjectiveCToSwift/ObjectiveCToSwiftTests/TripTests.m"
+                  timestampString = "478109022.296765"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "53"
+                  endingLineNumber = "53"
+                  offsetFromSymbolStart = "375">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[TripTests test_whenTripHasTwoHotelLegs_thenFirstHotelLegReturnsTheFirstOne]"
+                  moduleName = "ObjectiveCToSwiftTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/gergelyorosz/Documents/Projects/Gergo/ObjectiveCToSwift/ObjectiveCToSwiftTests/TripTests.m"
+                  timestampString = "478109022.297172"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "53"
+                  endingLineNumber = "53"
+                  offsetFromSymbolStart = "1062">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[TripTests test_whenTripHasTwoHotelLegs_thenFirstHotelLegReturnsTheFirstOne]"
+                  moduleName = "ObjectiveCToSwiftTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/gergelyorosz/Documents/Projects/Gergo/ObjectiveCToSwift/ObjectiveCToSwiftTests/TripTests.m"
+                  timestampString = "478109022.297493"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "53"
+                  endingLineNumber = "53"
+                  offsetFromSymbolStart = "1208">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[TripTests test_whenTripHasTwoHotelLegs_thenFirstHotelLegReturnsTheFirstOne]"
+                  moduleName = "ObjectiveCToSwiftTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/gergelyorosz/Documents/Projects/Gergo/ObjectiveCToSwift/ObjectiveCToSwiftTests/TripTests.m"
+                  timestampString = "478109022.297745"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "53"
+                  endingLineNumber = "53"
+                  offsetFromSymbolStart = "1336">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ObjectiveCToSwift/Models/Trip.m"
+            timestampString = "478110138.863662"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "31"
+            endingLineNumber = "31"
+            landmarkName = "-firstHotelLeg"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ObjectiveCToSwift/Models/Trip.m"
+            timestampString = "478110138.863662"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "25"
+            endingLineNumber = "25"
+            landmarkName = "-firstHotelLeg"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ObjectiveCToSwift/Models/Trip.m"
+            timestampString = "478110119.916418"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "27"
+            endingLineNumber = "27"
+            landmarkName = "-firstHotelLeg"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
