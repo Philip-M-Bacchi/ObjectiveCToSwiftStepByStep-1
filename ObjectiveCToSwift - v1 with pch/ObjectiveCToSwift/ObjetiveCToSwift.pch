@@ -1,0 +1,21 @@
+//
+//  ObjetiveCToSwift.pch
+//  ObjectiveCToSwift
+//
+//  Created by Gergely Orosz on 25/02/2016.
+//  Copyright © 2016 GergelyOrosz. All rights reserved.
+//
+
+// ObjectiveCToSwift.pch
+
+#ifndef ObjetiveCToSwift_pch
+#define ObjetiveCToSwift_pch
+
+#import "ObjectiveCToSwift-Swift.h"
+
+#import "TripLegBase.h"
+#import "FlightLeg.h"
+#import "HotelLeg.h"
+#import "Trip.h"
+
+#endif /* ObjetiveCToSwift_pch */
